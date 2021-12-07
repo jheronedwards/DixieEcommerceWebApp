@@ -1,5 +1,7 @@
 # EcommerceWebApp
 Fully fledged ecommerce website app to showcase design for an ecommerce client and functionality with MERN stack. Includes client view and admin view. 
+![image](https://user-images.githubusercontent.com/91984031/144983719-a69f29d4-334c-4e81-aef1-0ab71c28614e.png)
+
 ![image](https://user-images.githubusercontent.com/91984031/144947373-063e0ac8-840e-41a9-abdb-a9fa7e06944b.png)
 ![image](https://user-images.githubusercontent.com/91984031/144950009-6eeb0b56-b323-40d0-91cd-cad2766af471.png)
 
