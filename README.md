@@ -4,4 +4,6 @@ Fully fledged ecommerce website app to showcase design for an ecommerce client a
 ![image](https://user-images.githubusercontent.com/91984031/144950009-6eeb0b56-b323-40d0-91cd-cad2766af471.png)
 
 ![image](https://user-images.githubusercontent.com/91984031/144949941-fac0a5f6-6a53-4e55-bd26-3a657f11593b.png)
+![image](https://user-images.githubusercontent.com/91984031/144950172-ebd6d72c-484b-4eb5-85c0-837dd66ff5bf.png)
+
 
