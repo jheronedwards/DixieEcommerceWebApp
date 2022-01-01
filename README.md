@@ -7,7 +7,6 @@ Ecommerce website app designed in Figma to showcase ecommerce client and functio
 ![image](https://user-images.githubusercontent.com/91984031/144984588-1001792b-f56e-4e69-8601-bd937232ba1f.png)
 
 
-![image](https://user-images.githubusercontent.com/91984031/144949941-fac0a5f6-6a53-4e55-bd26-3a657f11593b.png)
 ![image](https://user-images.githubusercontent.com/91984031/144982670-e82ae4d7-deea-4b83-b360-2f23c04d5e74.png)
 
 ![image](https://user-images.githubusercontent.com/91984031/144950172-ebd6d72c-484b-4eb5-85c0-837dd66ff5bf.png)
